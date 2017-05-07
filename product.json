@@ -3,7 +3,21 @@
         "title": "仿vivo",
         "desc": "使用的技术有:laravel框架 MySql javascript jQuery Ajax , 做的一个响应式的手机购物网站，与后台交互，包含登录、注册、退出功能,商品分类、选购和支付",
         "imgName": "1",
-        "demoAddress": "haoqicat",
+        "demoAddress": "1-1",
+        "codeAddress": "laravel2"
+    },
+    {
+        "title": "仿vivo",
+        "desc": "使用的技术有:laravel框架 MySql javascript jQuery Ajax , 做的一个响应式的手机购物网站，与后台交互，包含登录、注册、退出功能,商品分类、选购和支付",
+        "imgName": "2",
+        "demoAddress": "2-2",
+        "codeAddress": "laravel2"
+    },
+    {
+        "title": "仿vivo",
+        "desc": "使用的技术有:laravel框架 MySql javascript jQuery Ajax , 做的一个响应式的手机购物网站，与后台交互，包含登录、注册、退出功能,商品分类、选购和支付",
+        "imgName": "3",
+        "demoAddress": "3-3",
         "codeAddress": "laravel2"
     }
 ]
